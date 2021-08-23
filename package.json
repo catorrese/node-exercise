@@ -1,0 +1,23 @@
+{
+  "name": "node-express-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catorrese/node-express-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catorrese/node-express-exercise/issues"
+  },
+  "homepage": "https://github.com/catorrese/node-express-exercise#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
